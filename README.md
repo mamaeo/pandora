@@ -24,5 +24,7 @@ La struttura del progetto è composta da diverse directory:
 |-- arduino
 |   |-- pandora.ino
 |-- fritzing
+|   |-- pandora.fzz
+|   |-- circuit.png
 ```
 
