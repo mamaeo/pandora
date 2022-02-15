@@ -21,6 +21,7 @@ La struttura del progetto è composta da diverse directory:
 ```
 | pandora
 |-- README.md
+|-- LICENSE
 |-- arduino
 |   |-- pandora.ino
 |-- fritzing
