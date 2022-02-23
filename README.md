@@ -31,4 +31,4 @@ La struttura del progetto è composta da diverse directory:
 
 ## Immagini
 
-![Alt Text](images/Immagine dispositivo.jpg)
+![Alt Text](images/Immagine_dispositivo.jpg)
