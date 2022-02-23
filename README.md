@@ -29,3 +29,6 @@ La struttura del progetto è composta da diverse directory:
 |   |-- circuit.png
 ```
 
+## Immagini
+
+![Alt Text](images/Immagine dispositivo.jpg)
