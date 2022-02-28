@@ -29,6 +29,10 @@ La struttura del progetto è composta da diverse directory:
 |   |-- circuit.png
 ```
 
+## Fritzing
+![Alt Text](fritzing/pandora_fritzing_image.png)
+
 ## Immagini
 
 ![Alt Text](images/Immagine_dispositivo.jpg)
+
